@@ -1,0 +1,8 @@
+Cambiar de rama:
+> git checkout nombre_rama
+
+Ver el status:
+> git status
+
+Añadir el archivo a lo que se va a subir:
+> git add
